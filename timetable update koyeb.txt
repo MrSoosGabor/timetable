@@ -1,0 +1,2 @@
+PUT https://timetable-jedlik.koyeb.app/update
+body - form-data - Key:src Value:version/update.bin
