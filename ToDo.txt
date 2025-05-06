@@ -1,4 +1,4 @@
-táblázatNEM KELL 1. Az ébredési idők eltolása az egyes termeknél, hogy ne egyszerre legyen a frissítés.
+NEM KELL 1. Az ébredési idők eltolása az egyes termeknél, hogy ne egyszerre legyen a frissítés.
 	Az eredeti fél 8-as ébredés előtt az egyes termekhez tartozó órarendek Teremszam*20 mp-cel előbb ébredjenek.
 	Pl.: A 303 terem 303*20=6060 mp = 101 perccel fél 8 előtt, vagyis 6 óra előtt 11 perccel, 5 óra 49 perckor ébred
 
